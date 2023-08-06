@@ -1,0 +1,18 @@
+[
+    {
+        "label":"讀書",
+        "value":"study"
+    },{
+        "label":"吃飯",
+        "value":"eating"
+    },{
+        "label":"運動",
+        "value":"exercise"
+    },{
+        "label":"逛街",
+        "value":"playing"
+    },{
+        "label":"還沒想好",
+        "value":"nothing"
+    }
+]
